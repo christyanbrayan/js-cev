@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<title> Condições (Parte 1) - Curso JavaScript #11 </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+	<h1> Nacionalidade </h1>
+	País: <input type="text" name="txtpais" id="txtpais">
+	<input type="button" value="Verificar" onclick="nacional()">
+	<div id="res">
+		
+	</div>
+	<script>
+		function nacional() {
+			var txtp = window.document.querySelector('input#txtpais')
+			var res = window.document.querySelector('div#res')
+			var país = txtp.value
+			
+			res.innerHTML = `<p> Vivendo em <strong> ${país} </strong> </p>`
+			
+			if (país != 'Brasil') {
+				res.innerHTML += '<p> <strong> Estrangeiro 🌐 </strong> </p>'
+			} else {
+				res.innerHTML += '<p> <strong> Brasileiro 🇧🇷 </strong> </p>'
+			}
+
+		}
+	</script>
+</body>
+</html>
