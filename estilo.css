@@ -1,0 +1,58 @@
+body {
+	background-color: #010101;
+	font: normal 15pt Arial;
+}
+
+a {
+	text-decoration: none;
+	color: #fddb00;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#cev-title {
+	color: #2222ff;
+}
+
+ul {
+	text-align: center;
+	line-height: 50px;
+	list-style-type: none;
+}
+
+ul li a {
+	color: white;
+	text-shadow: 1px 1px 2px #000000b3;
+}
+
+header {
+	color: white;
+	text-align: center;
+}
+
+section {
+	background: #fddb00;
+	border-radius: 10px;
+	padding: 15px;
+	width: 500px;
+	margin: auto;
+	box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.266);
+}
+
+section a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
+footer {
+	color: white;
+	text-align: center;
+	font-style: italic;
+}
+
+footer p span:hover {
+	color: #fddb00;
+}
