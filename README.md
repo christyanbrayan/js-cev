@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-	Exercícios e Scripts do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso</a> Básico de JavaScript do <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>
+	Anotações e Scripts do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1">Curso</a> Básico de JavaScript do <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a>
 </h2>
 
 <h3 align="center">
