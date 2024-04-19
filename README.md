@@ -60,9 +60,12 @@ Primeira base/contato com a linguagem
 * NodeJS
 * Frameworks
 
-## Rodando
-* .html - navegador
-* .js - [Node.js](https://nodejs.org/en/)
+## Rodando Localmente
+* Clone o repositório
+	* .html -> navegador
+	* .js -> [Node.js](https://nodejs.org/en/)
+
+-> Acesse os exercícios [aqui](https://christyanbrayan.github.io/js-cev), hospedados via GitHub Pages
 
 ## Links
 * [JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
